@@ -31,5 +31,5 @@ fi
 	sudo chown root:root /etc/resolv.conf
 	sudo chmod 644 /etc/resolv.conf
 clear
-	figlet DARKY-OSS
+	figlet AVA-ROSE
 	figlet ARCH LINUX
